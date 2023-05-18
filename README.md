@@ -3,3 +3,8 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SENTIN0/E-BOMB">
 
 ![Alt text](Img01.jpg)
+
+
+<br>
+<br>
+* This is an email bomber tool and the main thing here is that even if the email is sent from the same email, the email will appear as a different email in the email app.  Here you can decide the email content you want and it will not be downloaded.
