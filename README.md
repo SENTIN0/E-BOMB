@@ -7,4 +7,5 @@
 
 <br>
 <br>
-*This is an email bomber tool and the main thing here is that even if the email is sent from the same email, the email will appear as a different email in the email app.  Here you can decide the email content you want and it will not be downloaded.
+
+* This is an email bomber tool and the main thing here is that even if the email is sent from the same email, the email will appear as a different email in the email app.  Here you can decide the email content you want and it will not be downloaded.
