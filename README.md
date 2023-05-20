@@ -43,7 +43,7 @@ cd E-BOMB
 ```
 ```bash
 
-pip install requirements.txt
+pip install requests
 
 ```
 ```bash
