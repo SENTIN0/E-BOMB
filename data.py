@@ -1,4 +1,4 @@
-#YOU CAN TRY DEOBFUSCATE THIS 
+#YOU CAN TRY DEOBFUSCATE THIS . GBS
 
 import random ,base64,codecs,zlib;pyobfuscate=""
 
